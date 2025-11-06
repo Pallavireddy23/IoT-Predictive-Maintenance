@@ -1,0 +1,10 @@
+
+---
+
+### ✅ Next Steps:
+1. Save this as `README.md` in your repo’s root folder.  
+2. Run these commands:
+   ```bash
+   git add README.md
+   git commit -m "Added detailed project README"
+   git push
